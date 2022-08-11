@@ -1,0 +1,12 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+.card-img-top{
+  width: 40%;
+  height: 3.8vw;
+  object-fit: cover;
+float: left;
+}
+.fs-1{
+  color: deepskyblue;
+  font-weight: bold;
+  margin-right: 30%;
+}
